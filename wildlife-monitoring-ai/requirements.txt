@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+torch
+ultralytics
+requests
+pandas
+pyserial
+twilio
+python-dotenv
